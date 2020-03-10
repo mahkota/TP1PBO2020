@@ -1,0 +1,16 @@
+Saya Fachri Veryawan Mahkota mengerjakan evaluasi TP1 dalam mata kuliah Pemrograman Berorientasi Objek
+untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan.
+Aamiin.
+
+Kesulitan:
+- Memfilter dari harga dan jenis barang dengan combobox
+- Mengatur gambar yang ditampilkan
+- Pengaturan tombol "Beli"
+
+Hal baru yang dipelajari:
+Foreach, FlowLayoutPanel, Panel, PictureBox, Image in Button
+
+Fitur yang sudah dikerjakan:
+- Login
+- Katalog
+- Daftar Barang (tampilkan semua)
